@@ -77,4 +77,12 @@ Trained and compared:
 ---
 
 ## 📁 Project Structure
+NutriClass/
+├── data/
+│ └── food_dataset.csv
+├── notebooks/
+│ └── NutriClass_Food_Classification.ipynb
+├── models
+├── README.md
+
 
